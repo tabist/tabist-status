@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "pms-fe",
+    "url": "https://pms.tabist.co.jp",
+    "icon": "https://icons.duckduckgo.com/ip3/pms.tabist.co.jp.ico",
+    "slug": "pms-fe",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 499,
+    "timeDay": 499,
+    "timeWeek": 499,
+    "timeMonth": 499,
+    "timeYear": 499,
+    "dailyMinutesDown": {}
+  }
+]
