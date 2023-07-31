@@ -5,6 +5,8 @@ repo: tabist-status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: broken-site
+    url: https://broken-site
 
   - name: pms-fe
     url: https://pms.tabist.co.jp
