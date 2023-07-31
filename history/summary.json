@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 55,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 112,
+    "timeDay": 71,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "broken-site",
+    "url": "https://broken-site",
+    "icon": "https://icons.duckduckgo.com/ip3/broken-site.ico",
+    "slug": "broken-site",
+    "status": "down",
+    "uptime": "19.32%",
+    "uptimeDay": "19.32%",
+    "uptimeWeek": "19.32%",
+    "uptimeMonth": "19.32%",
+    "uptimeYear": "19.32%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "pms-fe",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 328,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "time": 401,
+    "timeDay": 352,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   }
 ]
